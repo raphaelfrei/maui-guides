@@ -17,7 +17,7 @@ All my work is currently (2023/24 least) being developed on a MacBook Air M1 and
 In every project that I create - I've installed these Nugets:
 
 - [Community Toolkit for MAUI](https://github.com/CommunityToolkit/Maui)
-- [FingerPrint](https://github.com/smstuebe/xamarin-fingerprint) *(Only if biometrics is necessary)*
+- [FingerPrint](https://github.com/smstuebe/xamarin-fingerprint) - *(Only if biometrics is necessary)*
 - [Microsoft.Data.Sqlite](https://www.nuget.org/packages/Microsoft.Data.Sqlite/) - *(Only if using SQLite for DB)*
 
 ## 💻 Projects with MAUI:
