@@ -27,7 +27,7 @@ In every project that I create - I've installed these Nugets:
 - [Financial Manager](https://github.com/raphaelfrei/financial-manager)
 - [Password Generator](https://github.com/raphaelfrei/xaml_password-generator)
 
+## 📦 Content:
 
-
-
-
+- [SQLite Implementation](https://github.com/raphaelfrei/maui-guides/blob/main/sqlite.md)
+- [Device Biometrics](https://github.com/raphaelfrei/maui-guides/blob/main/user_biometrics.md)
