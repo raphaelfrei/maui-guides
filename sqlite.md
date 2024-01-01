@@ -21,7 +21,8 @@ using Microsoft.Maui.Controls;
 
 public static class SQLConn {
 
-    private static string DBName = "dbase.db"; // Or the name that you like
+    // By using AppDataDirectory, the app will keep the information stored inside the DB between compilation and new versions
+    private static string DBName = Path.Combine(FileSystem.AppDataDirectory, "mycardb.db"); // Or the name that you like
     private static string ConnectionString = $"Data Source={DBName};";
 
 }
