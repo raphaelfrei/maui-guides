@@ -32,3 +32,4 @@ In every project that I create - I've installed these Nugets:
 - [SQLite Implementation](https://github.com/raphaelfrei/maui-guides/blob/main/sqlite.md)
 - [Device Biometrics](https://github.com/raphaelfrei/maui-guides/blob/main/user_biometrics.md)
 - [Multiple Languages](https://github.com/raphaelfrei/maui-guides/blob/main/multi-language.md)
+- [Prevent Light/Dark Mode from Change](https://github.com/raphaelfrei/maui-guides/blob/main/fix-app-themes.md)
