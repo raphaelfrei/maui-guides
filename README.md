@@ -33,3 +33,4 @@ In every project that I create - I've installed these Nugets:
 - [Device Biometrics](https://github.com/raphaelfrei/maui-guides/blob/main/user_biometrics.md)
 - [Multiple Languages](https://github.com/raphaelfrei/maui-guides/blob/main/multi-language.md)
 - [Prevent Light/Dark Mode from Change](https://github.com/raphaelfrei/maui-guides/blob/main/fix-app-themes.md)
+- [Update ObservableCollection on Navigation.Pop](https://github.com/raphaelfrei/maui-guides/blob/main/update-data-on-pop.md)
