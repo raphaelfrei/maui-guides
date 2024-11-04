@@ -35,3 +35,4 @@ In every project that I create - I've installed these Nugets:
 - [Prevent Light/Dark Mode from Change](https://github.com/raphaelfrei/maui-guides/blob/main/fix-app-themes.md)
 - [Update ObservableCollection on Navigation.Pop](https://github.com/raphaelfrei/maui-guides/blob/main/update-data-on-pop.md)
 - [Entity Framework Core](https://github.com/raphaelfrei/maui-guides/blob/main/ef-core.md)
+- [Repository Pattern](https://github.com/raphaelfrei/maui-guides/blob/main/repositories.md)
