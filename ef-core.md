@@ -77,6 +77,10 @@ Add an **CLASS LIBRARY** to store Database settings.<br>
 Add an **CONSOLE APPLICATION** to store Migrations code.<br>
 *(Suggested name is YOUR_PROJECT.Database.Migration.Runtime)*<br>
 
+### 1.4. Main Project:
+
+On the main project, only add references to ````MY_PROJECT.Database```` and ````MY_PROJECT.Models````
+
 ## 2. Required packages:
 
 Install these packages inside ````MY_PROJECT.Database```` project:
